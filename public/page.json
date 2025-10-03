@@ -1,0 +1,8 @@
+[
+    { "name": "Home", "html": 
+        "<h1>This is the Home Page</h1><p>Welcome to the Home Page</p>"
+    },
+    { "name": "Other", "html": 
+        "<h1>This is the Other Page</h1><p>Welcome to the Other Page</p>"
+    }
+]
